@@ -1,7 +1,7 @@
 # Account Information Manager
 
 ## Overview
-The Account Information Manager is a secure and scalable system designed to manage user accounts and their associated service entries. It uses robust encryption for sensitive data, ensuring user credentials and service passwords are safely stored.
+The Account Information Manager is a secure and scalable system designed to manage user accounts and their associated service entries. It uses AES-128 encryption for sensitive data, ensuring user credentials and service passwords are safely stored.
 
 ---
 
