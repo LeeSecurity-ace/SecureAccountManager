@@ -1,0 +1,15 @@
+debug/AccountManager.o
+debug/aes.o
+debug/databasemanager.o
+debug/entrymanager.o
+debug/main.o
+debug/mainwindow.o
+debug/passwordstrength.o
+debug/registrationwindow.o
+debug/serviceentry.o
+debug/serviceentryfactory.o
+debug/userdashboard.o
+debug/moc_entrymanager.o
+debug/moc_mainwindow.o
+debug/moc_registrationwindow.o
+debug/moc_userdashboard.o
